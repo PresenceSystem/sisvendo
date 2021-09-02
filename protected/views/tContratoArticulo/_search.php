@@ -1,0 +1,32 @@
+<?php
+/** @var TContratoArticuloController $this */
+/** @var AweActiveForm $form */
+$form = $this->beginWidget('bootstrap.widgets.TbActiveForm', array(
+	'action' => Yii::app()->createUrl($this->route),
+	'method' => 'get',
+)); ?>
+
+<?php echo $form->textFieldRow($model, 'id_detalle', array('class' => 'span5', 'maxlength' => 11)); ?>
+
+<?php echo $form->dropDownListRow($model, 'numero_contrato', CHtml::listData(TContrato::model()->findAll(), 'numero', TContrato::representingColumn())); ?>
+
+<?php echo $form->dropDownListRow($model, 'id_articulo', CHtml::listData(TArticulo::model()->findAll(), 'id_articulo', TArticulo::representingColumn())); ?>
+
+<?php echo $form->textFieldRow($model, 'cantidad', array('class' => 'span5', 'maxlength' => 4)); ?>
+
+<?php echo $form->textFieldRow($model, 'precio', array('class' => 'span5', 'maxlength' => 7)); ?>
+
+<?php echo $form->textFieldRow($model, 'observacion', array('class' => 'span5', 'maxlength' => 100)); ?>
+
+<?php echo $form->textFieldRow($model, 'fecha', array('class' => 'span5')); ?>
+
+<?php echo $form->textFieldRow($model, 'id_usuario', array('class' => 'span5')); ?>
+
+<div class="form-actions">
+    <?php $this->widget('bootstrap.widgets.TbButton', array(
+			'type' => 'primary',
+			'label' => Yii::t('AweCrud.app', 'Search'),
+		)); ?>
+</div>
+
+<?php $this->endWidget(); ?>

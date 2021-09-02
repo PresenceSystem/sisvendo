@@ -1,0 +1,848 @@
+[20-Jul-2020 04:53:01 UTC] PHP Warning:  require_once(/home/presence20/public_html/sisvendo/../framework/yii.php): failed to open stream: No such file or directory in /home/presence20/public_html/sisvendo/index.php on line 16
+[20-Jul-2020 04:53:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/presence20/public_html/sisvendo/../framework/yii.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/presence20/public_html/sisvendo/index.php on line 16
+[13-Oct-2020 23:17:33 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[13-Oct-2020 23:17:40 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[19-Oct-2020 20:13:05 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:13:21 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:13:28 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:15:42 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:15:46 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:15:51 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:15:54 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:16:03 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:17:14 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[19-Oct-2020 20:19:28 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/presence20/public_html/sisvendo/protected/libs/mpdf/mpdf.php on line 1422
+[27-Jan-2021 20:39:31 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:40:53 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:40:57 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:40:59 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:44:30 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:44:33 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:44:39 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:44:50 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:45:28 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:45:28 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:45:28 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:45:29 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:45:30 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:45:30 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 20:59:08 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 21:02:45 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 21:03:27 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 22:05:51 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 22:07:33 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 22:07:36 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 22:07:40 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 23:13:38 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 23:13:45 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[27-Jan-2021 23:33:48 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 13:39:17 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 13:57:11 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 13:57:37 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 14:09:43 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 14:23:24 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 14:27:33 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 14:28:00 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 14:28:19 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 14:34:28 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 14:53:45 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 14:59:20 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 18:22:25 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 18:27:23 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 18:27:33 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[28-Jan-2021 18:56:42 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:32:48 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:32:54 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:33:52 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:38:49 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:39:17 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:40:32 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:40:41 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:55:10 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 18:55:38 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 19:04:40 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 19:08:11 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 20:08:26 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 20:08:29 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 20:08:31 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 20:08:35 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 20:09:22 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 20:52:38 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 20:52:48 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 21:14:18 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 21:16:03 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 21:22:45 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 21:24:07 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 21:32:34 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 21:32:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[01-Feb-2021 23:42:31 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[03-Feb-2021 00:07:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/curl.so (libssl.so.10: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/curl.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/curl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[03-Feb-2021 00:07:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/pgsql.so (libssl.so.10: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/pgsql.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/pgsql.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[03-Feb-2021 00:07:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/pdo_pgsql.so (libssl.so.10: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/pdo_pgsql.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/pdo_pgsql.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[20-Apr-2021 02:27:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presence20/public_html/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:22:47 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:43:32 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:44:46 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:44:53 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:46:28 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:46:30 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:46:31 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:46:32 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:46:32 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpRequest.php on line 119
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $repy follows optional parameter $resize in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 0
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $divider follows optional parameter $align in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 10679
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $level follows optional parameter $content in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 11426
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $x follows optional parameter $html in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 13400
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $y follows optional parameter $html in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 13400
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $w follows optional parameter $html in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 13400
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $h follows optional parameter $html in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 13400
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $first follows optional parameter $name in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 14199
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $oddEven follows optional parameter $name in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 14199
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $h follows optional parameter $state in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 21685
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $def_fontsize follows optional parameter $forcewrap in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 22565
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $textbuffer follows optional parameter $forcewrap in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 23020
+[20-Apr-2021 20:57:49 UTC] PHP Deprecated:  Required parameter $dir follows optional parameter $join in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/libs/mpdf/mpdf.php on line 30134
+[16-Jun-2021 14:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[17-Jun-2021 13:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[18-Jun-2021 13:31:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[19-Jun-2021 14:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[21-Jun-2021 15:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[21-Jun-2021 22:42:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[22-Jun-2021 15:27:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[22-Jun-2021 16:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[23-Jun-2021 14:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[23-Jun-2021 14:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[23-Jun-2021 22:07:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[24-Jun-2021 13:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[25-Jun-2021 13:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[25-Jun-2021 13:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[25-Jun-2021 14:07:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[26-Jun-2021 14:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[26-Jun-2021 14:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[26-Jun-2021 19:42:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[28-Jun-2021 15:07:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[28-Jun-2021 15:07:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[28-Jun-2021 15:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[28-Jun-2021 17:09:05 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[28-Jun-2021 17:09:05 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[28-Jun-2021 17:09:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[29-Jun-2021 13:40:44 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[29-Jun-2021 13:40:44 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[29-Jun-2021 13:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[30-Jun-2021 15:12:43 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[30-Jun-2021 15:12:43 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[30-Jun-2021 15:12:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[01-Jul-2021 14:14:00 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Jul-2021 14:14:00 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Jul-2021 14:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[01-Jul-2021 15:22:44 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Jul-2021 15:22:44 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Jul-2021 15:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[01-Jul-2021 19:02:25 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Jul-2021 19:02:25 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Jul-2021 19:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[01-Jul-2021 21:34:24 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Jul-2021 21:34:24 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Jul-2021 21:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[02-Jul-2021 13:34:29 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[02-Jul-2021 13:34:29 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[02-Jul-2021 13:34:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[03-Jul-2021 13:52:32 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[03-Jul-2021 13:52:32 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[03-Jul-2021 13:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[03-Jul-2021 17:31:44 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[03-Jul-2021 17:31:44 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[03-Jul-2021 17:31:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[03-Jul-2021 20:03:06 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[03-Jul-2021 20:03:06 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[03-Jul-2021 20:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[04-Jul-2021 15:12:31 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[04-Jul-2021 15:12:31 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[04-Jul-2021 15:12:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[05-Jul-2021 13:55:46 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[05-Jul-2021 13:55:46 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[05-Jul-2021 13:55:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[05-Jul-2021 14:41:39 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[05-Jul-2021 14:41:39 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[05-Jul-2021 14:41:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[05-Jul-2021 21:41:53 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[05-Jul-2021 21:41:53 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[05-Jul-2021 21:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[06-Jul-2021 16:48:52 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[06-Jul-2021 16:48:52 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[06-Jul-2021 16:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[06-Jul-2021 18:09:15 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[06-Jul-2021 18:09:15 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[06-Jul-2021 18:09:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[07-Jul-2021 13:48:12 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[07-Jul-2021 13:48:12 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[07-Jul-2021 13:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[07-Jul-2021 17:43:46 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[07-Jul-2021 17:43:46 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[07-Jul-2021 17:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[08-Jul-2021 13:48:17 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[08-Jul-2021 13:48:17 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[08-Jul-2021 13:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[08-Jul-2021 15:03:30 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[08-Jul-2021 15:03:30 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[08-Jul-2021 15:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[08-Jul-2021 19:30:38 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[08-Jul-2021 19:30:38 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[08-Jul-2021 19:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[09-Jul-2021 13:53:43 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[09-Jul-2021 13:53:43 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[09-Jul-2021 13:53:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[09-Jul-2021 16:10:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[09-Jul-2021 16:10:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[09-Jul-2021 16:10:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[09-Jul-2021 18:50:50 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[09-Jul-2021 18:50:50 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[09-Jul-2021 18:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[09-Jul-2021 21:09:24 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[09-Jul-2021 21:09:24 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[09-Jul-2021 21:09:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[10-Jul-2021 13:55:25 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[10-Jul-2021 13:55:25 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[10-Jul-2021 13:55:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[11-Jul-2021 13:40:45 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[11-Jul-2021 13:40:45 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[11-Jul-2021 13:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[11-Jul-2021 13:40:45 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[11-Jul-2021 13:40:45 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[11-Jul-2021 13:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[12-Jul-2021 14:05:47 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[12-Jul-2021 14:05:47 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[12-Jul-2021 14:05:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[12-Jul-2021 18:51:48 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[12-Jul-2021 18:51:48 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[12-Jul-2021 18:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[13-Jul-2021 13:31:36 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[13-Jul-2021 13:31:36 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[13-Jul-2021 13:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[13-Jul-2021 19:45:15 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[13-Jul-2021 19:45:15 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[13-Jul-2021 19:45:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[14-Jul-2021 13:17:32 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 13:17:32 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 13:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[14-Jul-2021 13:17:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 13:17:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 13:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[14-Jul-2021 13:17:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 13:17:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 13:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[14-Jul-2021 13:17:37 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 13:17:37 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 13:17:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[14-Jul-2021 18:43:41 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 18:43:41 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[14-Jul-2021 18:43:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[15-Jul-2021 13:19:38 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[15-Jul-2021 13:19:38 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[15-Jul-2021 13:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[20-Aug-2021 23:55:33 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[20-Aug-2021 23:55:33 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[20-Aug-2021 23:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[21-Aug-2021 14:17:45 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[21-Aug-2021 14:17:45 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[21-Aug-2021 14:17:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[22-Aug-2021 14:09:50 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[22-Aug-2021 14:09:50 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[22-Aug-2021 14:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[22-Aug-2021 18:34:03 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[22-Aug-2021 18:34:04 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[22-Aug-2021 18:34:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[22-Aug-2021 19:55:08 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[22-Aug-2021 19:55:08 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[22-Aug-2021 19:55:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[23-Aug-2021 12:45:40 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[23-Aug-2021 12:45:40 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[23-Aug-2021 12:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[23-Aug-2021 23:48:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[23-Aug-2021 23:48:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[23-Aug-2021 23:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[24-Aug-2021 14:06:03 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[24-Aug-2021 14:06:03 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[24-Aug-2021 14:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[24-Aug-2021 15:06:10 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[24-Aug-2021 15:06:10 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[24-Aug-2021 15:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[25-Aug-2021 13:13:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[25-Aug-2021 13:13:34 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[25-Aug-2021 13:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[25-Aug-2021 18:27:30 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[25-Aug-2021 18:27:30 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[25-Aug-2021 18:27:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[26-Aug-2021 14:25:58 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[26-Aug-2021 14:25:58 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[26-Aug-2021 14:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[27-Aug-2021 14:05:12 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[27-Aug-2021 14:05:12 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[27-Aug-2021 14:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[28-Aug-2021 13:06:55 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[28-Aug-2021 13:06:55 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[28-Aug-2021 13:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[29-Aug-2021 15:00:48 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[29-Aug-2021 15:00:48 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[29-Aug-2021 15:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[30-Aug-2021 13:10:39 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[30-Aug-2021 13:10:39 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[30-Aug-2021 13:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[31-Aug-2021 13:12:17 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[31-Aug-2021 13:12:17 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[31-Aug-2021 13:12:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[01-Sep-2021 00:44:10 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Sep-2021 00:44:10 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Sep-2021 00:44:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[01-Sep-2021 13:01:32 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Sep-2021 13:01:32 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[01-Sep-2021 13:01:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
+[02-Sep-2021 15:02:08 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[02-Sep-2021 15:02:08 UTC] PHP Warning:  session_regenerate_id(): Session write failed. ID: user (path: /var/cpanel/php/sessions/ea-php80) in /home/presencesystemad/public_html/comercialmalan/framework/web/CHttpSession.php on line 190
+[02-Sep-2021 15:02:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function esAdministrador() on null in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php:92
+Stack trace:
+#0 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(126): require()
+#1 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/presences...', Array, true)
+#2 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/presences...', Array, true)
+#3 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#4 /home/presencesystemad/public_html/comercialmalan/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#5 /home/presencesystemad/public_html/comercialmalan/framework/web/CBaseController.php(215): COutputProcessor- in /home/presencesystemad/public_html/comercialmalan/sisvendo/protected/views/layouts/main.php on line 92
