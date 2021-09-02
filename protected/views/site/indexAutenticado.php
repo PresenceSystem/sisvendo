@@ -13,7 +13,7 @@ if (!Yii::app()->user->isGuest && Usuario::model()->findByPk(Yii::app()->user->i
          <!--<img src="/sismedant/images/virtual.jpg" width="20%"/>--> 
        
         <!--<br><br><br><br>-->
-        <MARQUEE BGCOLOR="#000"><h3> <font color="#FFF"> Bienvenid@ <?php echo Yii::app()->getSession()->get('nombre_usuario_sisvendo');?> al menú de administración "SISVENDO"</font></h3></MARQUEE>
+        <MARQUEE BGCOLOR="#000"><h3> <font color="#FFF"> Bienvenid@ <?php echo Yii::app()->getSession()->get('nombre_usuario_sisvendo');?> al menú de administración "SISVENDO <?= Yii::app()->getSession()->get('id_empresa_sisvendo'); ?>"</font></h3></MARQUEE>
                    <br>   Un sistema web moderno e innovador para gestionar ventas a crédito.
                     <br>
         
@@ -55,7 +55,7 @@ else
          <!--<img src="/sismedant/images/virtual.jpg" width="20%"/>--> 
        
         <!--<br><br><br><br>-->
-        <MARQUEE BGCOLOR="#000"><h2> <font color="#FFF"> Bienvenid@ <?php echo Yii::app()->getSession()->get('nombre_usuario_sisvendo');?> al menú de administración "SISVENDO"</font></h2></MARQUEE>
+        <MARQUEE BGCOLOR="#000"><h2> <font color="#FFF"> Bienvenid@ <?php echo Yii::app()->getSession()->get('nombre_usuario_sisvendo');?> al menú de administración "SISVENDO <?= Yii::app()->getSession()->get('id_empresa_sisvendo'); ?>"</font></h2></MARQUEE>
         <div class='fondo2'>
            <br>   Un sistema web moderno e innovador para gestionar ventas a crédito.
         <br>
