@@ -90,6 +90,9 @@ public function accessRules() {
                         $model->prec_ven_credito=$model->prec_com+($model->credito_porcentaje*$model->prec_com)/100;
                          $model->prec_ven_credito = round($model->prec_ven_credito, 2);
                         };
+                        if ($model->fech_cad == "") {
+                            $model->fech_cad = "0000-00-00";
+                        }
 			if($model->save()) {
                 $this->redirect(array('view', 'id' => $model->id_articulo));
             }
