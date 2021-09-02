@@ -292,27 +292,27 @@
                                                         ),
                                                     ));
                                         }
-                                         $this->widget('bootstrap.widgets.TbButtonGroup', array(
-                                        'type' => 'info', // '', 'primary', 'info', 'success', 'warning', 'danger' or 'inverse'
-                                        //  'icon'=>'book',        
-                                        'size' => '50px',
-                                        'buttons' => array(
-                                            array('label' => 'Reportes', 'items' => array(
-                                                    //array('label' => 'Marcas', 'icon' => 'bookmark', 'url' => array('/tMarca/admin')),
-                                                    //array('label' => 'Proveedores', 'icon' => 'cog', 'url' => array('/tProveedor/admin')),
-                                                    //array('label' => 'Articulos', 'icon' => 'check', 'url' => array('/tArticulo/admin')),
-                                                    //array('label' => 'Clientes & Garantes', 'icon' => 'random', 'url' => array('/tPersona/admin')),
-                                                array('label' => 'Clientes morosos ', 'icon' => 'random', 'url' => array('/tContrato/listaDeudores')),
-                                                array('label' => 'Clientes puntuales ', 'icon' => 'random', 'url' => array('/tContrato/listaPuntuales')),
-                                                array('label' => 'Deudores para central de riesgo', 'icon' => 'signal', 'url' => array('/tContrato/deudores')),
-                                                array('label' => 'Cobros del día', 'icon' => 'pencil', 'url' => array('/tCuota/cobros')),
-                                                array('label' => 'Cobros modificados en el día', 'icon' => 'pencil', 'url' => array('/tCuota/cobrosModificados')),
-                                                    //array('label' => 'Balance de producción', 'icon' => 'tag', 'url' => array('/tbBalance/create')),
-                                                    '---',
-                                                 //   array('label' => 'Usuario', 'icon' => 'user', 'url' => array('/usuario/admin')),
-                                                ))
-                                        )
-                                    ));
+//                                         $this->widget('bootstrap.widgets.TbButtonGroup', array(
+//                                        'type' => 'info', // '', 'primary', 'info', 'success', 'warning', 'danger' or 'inverse'
+//                                        //  'icon'=>'book',        
+//                                        'size' => '50px',
+//                                        'buttons' => array(
+//                                            array('label' => 'Reportes', 'items' => array(
+//                                                    //array('label' => 'Marcas', 'icon' => 'bookmark', 'url' => array('/tMarca/admin')),
+//                                                    //array('label' => 'Proveedores', 'icon' => 'cog', 'url' => array('/tProveedor/admin')),
+//                                                    //array('label' => 'Articulos', 'icon' => 'check', 'url' => array('/tArticulo/admin')),
+//                                                    //array('label' => 'Clientes & Garantes', 'icon' => 'random', 'url' => array('/tPersona/admin')),
+//                                                array('label' => 'Clientes morosos ', 'icon' => 'random', 'url' => array('/tContrato/listaDeudores')),
+//                                                array('label' => 'Clientes puntuales ', 'icon' => 'random', 'url' => array('/tContrato/listaPuntuales')),
+//                                                array('label' => 'Deudores para central de riesgo', 'icon' => 'signal', 'url' => array('/tContrato/deudores')),
+//                                                array('label' => 'Cobros del día', 'icon' => 'pencil', 'url' => array('/tCuota/cobros')),
+//                                                array('label' => 'Cobros modificados en el día', 'icon' => 'pencil', 'url' => array('/tCuota/cobrosModificados')),
+//                                                    //array('label' => 'Balance de producción', 'icon' => 'tag', 'url' => array('/tbBalance/create')),
+//                                                    '---',
+//                                                 //   array('label' => 'Usuario', 'icon' => 'user', 'url' => array('/usuario/admin')),
+//                                                ))
+//                                        )
+//                                    ));
                                        
 //                                        if (Yii::app()->user->isGuest) {
 //                                       $this->widget('bootstrap.widgets.TbMenu', array(
